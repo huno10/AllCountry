@@ -1,0 +1,9 @@
+.theme {
+    color: var(--colors-text);
+    font-size: var(--fs-sm);
+    cursor: pointer;
+}
+
+.theme__span {
+    margin-left: 0.5rem;
+}
